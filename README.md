@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Jannat Sumaiya</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | React Native</h3>
+<br>
+<br>
 
 - 👋 Hi, I'm Sumaiya Jannat
 - 💻 Working on **React.js, Next.js, JavaScript and Tailwind CSS** for frontend development.
