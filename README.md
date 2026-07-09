@@ -31,7 +31,7 @@
 **FOLLOW ME ON SOCIALS:**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumaiya-jannat-2209r/" target="_blank">
+  <a href="https://www.linkedin.com/in/sumaiya2209/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Sumaiya2209" target="_blank">
