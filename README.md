@@ -1,3 +1,5 @@
+![Sumaiya's Banner](./github_banner_hex_v2.svg)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Hi%20There,%20I'm%20Jannat%20Sumaiya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=58&descSize=18" width="100%"/>
