@@ -1,32 +1,68 @@
 ![Sumaiya's Banner](./github_banner_hex_v2.svg)
 
 
+<div align="center">
 
-<h3 align="center">Hi! I'm Sumaiya Jannat</h3>
-<h4 align="center">Full Stack Developer (MERN)</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Jannat%20Sumaiya&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20(Web%20%26%20Mobile)&descAlignY=62&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+full-stack+web+%26+mobile+apps;MERN+Stack+%7C+React+Native+%7C+Next.js;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+- 👋 Hi, I'm **[@Sumaiya2209](https://github.com/Sumaiya2209)**
+- 💻 I'm currently working on **React.js, Next.js, JavaScript and Tailwind CSS** for frontend development.
+- 🛠️ Using **Node.js, Express.js, MongoDB and Stripe** for the backend.
+- 📱 I'm currently learning **React Native, TypeScript and Docker**.
+- 💬 Ask me about **Full-Stack (React, Next.js, Node, Express, MongoDB)**.
+- 📫 Feel free to reach me out **[Email](mailto:jannatsumaiya199@gmail.com)**.
+
+<br>
+
+**FOLLOW ME ON SOCIALS:**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sumaiya2209" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:jannatsumaiya199@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-I'm a university student and full-stack developer from Bangladesh, passionate about building real-world web and mobile applications. I work across the entire stack — from designing responsive UIs to building secure APIs and integrating payments, auth, and real-time features. I love turning ideas into polished, production-ready products.
+### 🧑‍💻 About Me
 
-
-- 🚀 Exploring **Next.js 15** (App Router) for modern full-stack web apps
-- 🌍 Working on a **tourism website** project
-- 💳 Building **MediCare Connect** — a role-based healthcare platform with Stripe payments
-- 📚 Sharpening my skills through a job-placement-focused programming course
-- 🌱 Learning better DevOps practices for deploying Node.js/Express apps
+- 🎓 University Student, Bangladesh (Web Technologies & Job-Placement Programming courses)
+- 💻 MERN Stack Developer
+- 🚀 Passionate about building scalable, real-world web & mobile apps
+- 📱 Exploring React Native for cross-platform mobile development
+- 🎯 Focused on shipping complete, production-ready projects
 
 ---
 
-### 🛠️ Skills
+### 🚀 Currently Exploring
+
+- ⚡ Next.js 15 (App Router)
+- 🔐 Better Auth & Stripe Payments
+- 📱 React Native / Expo
+- 🎨 HeroUI v3 & Advanced Tailwind CSS
+- ☁️ Deployment (Render, Vercel)
+
+---
+
+### 💬 Ask Me About
+
+React • Next.js • Node.js • Express.js • MongoDB • React Native
+
+---
+
+### 🛠️ Tech Stack
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
 
 **Backend**
 
@@ -38,23 +74,7 @@ I'm a university student and full-stack developer from Bangladesh, passionate ab
 
 **Tools & Others**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
-
----
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Sumaiya2209" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jannatsumaiya199@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
 
 ---
 
@@ -71,6 +91,6 @@ I'm a university student and full-stack developer from Bangladesh, passionate ab
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=90&section=footer" width="100%"/>
 
 </div>
