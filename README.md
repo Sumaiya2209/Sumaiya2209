@@ -12,7 +12,6 @@
 - 🎯 Focused on real-world problem solving.
 - 💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB).
 
-
 <br>
 
 ---
@@ -24,6 +23,8 @@
 - 🚀 Passionate about building scalable, real-world web & mobile apps
 - 📱 Exploring React Native for cross-platform mobile development
 - 🎯 Focused on shipping complete, production-ready projects
+
+<br>
 
 ---
 
@@ -40,7 +41,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
+<br>
 ---
 
 ### 🛠️ Tech Stack
@@ -60,6 +61,7 @@
 **Tools & Others**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" />
+<br>
 
 ---
 
