@@ -1,13 +1,9 @@
 ![Sumaiya's Banner](./github_banner_hex_v2.svg)
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=220&section=header&text=Hi%20There,%20I'm%20Jannat%20Sumaiya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile&descAlignY=58&descSize=18" width="100%"/>
 
-</div>
-
-<h3 align="center">👩‍💻 Jannat Sumaiya</h3>
-<h4 align="center">Full Stack Developer (Web &amp; Mobile)</h4>
+<h3 align="center">Hi! I'm Sumaiya Jannat</h3>
+<h4 align="center">Full Stack Developer (MERN)</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+full-stack+web+%26+mobile+apps;MERN+Stack+%7C+React+Native+%7C+Next.js;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
@@ -15,11 +11,8 @@
 
 ---
 
-### 🙋‍♀️ About Me
-
 I'm a university student and full-stack developer from Bangladesh, passionate about building real-world web and mobile applications. I work across the entire stack — from designing responsive UIs to building secure APIs and integrating payments, auth, and real-time features. I love turning ideas into polished, production-ready products.
 
-### 🔭 Currently
 
 - 🚀 Exploring **Next.js 15** (App Router) for modern full-stack web apps
 - 🌍 Working on a **tourism website** project
