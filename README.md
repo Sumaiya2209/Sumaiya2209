@@ -1,11 +1,7 @@
 ![Sumaiya's Banner](./github_banner_hex_v2.svg)
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C2FF&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Jannat%20Sumaiya&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20(Web%20%26%20Mobile)&descAlignY=62&descSize=16" width="100%"/>
-
-</div>
+<h1 align="center">Hi 👋, I'm Jannat Sumaiya</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack | React Native</h3>
 
 - 👋 Hi, I'm Sumaiya Jannat
 - 💻 Working on **React.js, Next.js, JavaScript and Tailwind CSS** for frontend development.
