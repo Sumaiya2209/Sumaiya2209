@@ -1,4 +1,4 @@
-![Sumaiya's Banner](./github_banner_hex_v2.svg)
+![Sumaiya's Banner](./github_banner_hex_v2%20.svg)
 
 <h1 align="center">Hi 👋, I'm Jannat Sumaiya</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack | React Native</h3>
