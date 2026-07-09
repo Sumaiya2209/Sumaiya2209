@@ -7,14 +7,27 @@
 
 </div>
 
-- 👋 Hi, I'm **[@Sumaiya2209](https://github.com/Sumaiya2209)**
-- 💻 I'm currently working on **React.js, Next.js, JavaScript and Tailwind CSS** for frontend development.
+- 👋 Hi, I'm Sumaiya Jannat
+- 💻 Working on **React.js, Next.js, JavaScript and Tailwind CSS** for frontend development.
 - 🛠️ Using **Node.js, Express.js, MongoDB and Stripe** for the backend.
-- 📱 I'm currently learning **React Native, TypeScript and Docker**.
-- 💬 Ask me about **Full-Stack (React, Next.js, Node, Express, MongoDB)**.
-- 📫 Feel free to reach me out **[Email](mailto:jannatsumaiya199@gmail.com)**.
+- 📱 Currently learning **React Native**.
+- 🎯 Focused on real-world problem solving.
+- 💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB).
+
 
 <br>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 University Student, Bangladesh (Web Technologies & Job-Placement Programming courses)
+- 💻 MERN Stack Developer
+- 🚀 Passionate about building scalable, real-world web & mobile apps
+- 📱 Exploring React Native for cross-platform mobile development
+- 🎯 Focused on shipping complete, production-ready projects
+
+---
 
 **FOLLOW ME ON SOCIALS:**
 
@@ -29,32 +42,6 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 University Student, Bangladesh (Web Technologies & Job-Placement Programming courses)
-- 💻 MERN Stack Developer
-- 🚀 Passionate about building scalable, real-world web & mobile apps
-- 📱 Exploring React Native for cross-platform mobile development
-- 🎯 Focused on shipping complete, production-ready projects
-
----
-
-### 🚀 Currently Exploring
-
-- ⚡ Next.js 15 (App Router)
-- 🔐 Better Auth & Stripe Payments
-- 📱 React Native / Expo
-- 🎨 HeroUI v3 & Advanced Tailwind CSS
-- ☁️ Deployment (Render, Vercel)
-
----
-
-### 💬 Ask Me About
-
-React • Next.js • Node.js • Express.js • MongoDB • React Native
 
 ---
 
